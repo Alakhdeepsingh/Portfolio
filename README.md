@@ -1,8 +1,6 @@
 # Personal Portfolio ⚡️
 
-> A clean, beautiful, responsive portfolio template for Frontend Developers!
-
->
+To view a live example, **[Click Here](https://alakhdeepportfolio.netlify.app/)**
 
 ## Sections 📚
 
@@ -13,8 +11,6 @@
 ✔️ Education\
 ✔️ Contact Info\
 ✔️ Resume
-
-To view a live example, **[click here](https://varadbhogayata.github.io/)**
 
 ## Tools Used 🛠️
 
