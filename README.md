@@ -1,6 +1,6 @@
 # Personal Portfolio ⚡️
 
-To view a live example, **[Click Here](https://alakhdeepportfolio.netlify.app/)**
+To view a live example, **[Click Here](https://alakhportfolio.netlify.app/)**
 
 ## Sections 📚
 
