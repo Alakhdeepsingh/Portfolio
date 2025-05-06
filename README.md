@@ -1,6 +1,6 @@
 # Personal Portfolio ⚡️
 
-To view a live example, **[Click Here](https://alakhportfolio.netlify.app/)**
+To view a live example, **[Click Here](https://portfolio-alakhdeepsinghs-projects.vercel.app/)**
 
 ## Sections 📚
 
